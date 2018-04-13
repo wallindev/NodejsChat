@@ -1,5 +1,7 @@
 # nodejs-chat 
 
+Update: New version 'chat2' (new repo) written with ES6 and updated dependencies
+
 Real-time chat application built with Express.js on Node.js with Socket.io, Synchronize.js and MongoDB. Uses less resources due to that new chat messages are only saved to database in bulk once a minute from memory. Client-side built with Angular.js, jQuery and Bootstrap.
 
 ## Installation

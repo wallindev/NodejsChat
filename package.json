@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.10.4",
     "hjs": "^0.0.6",
-    "mongodb": "^1.4.23",
+    "mongodb": "^2.2.19",
     "socket.io": "^1.2.1",
     "synchronize": "^0.9.9"
   },
@@ -27,7 +27,7 @@
     "MongoDB",
     "Hogan.js"
   ],
-  "author": "Mikael Wallin, Wallindev",
+  "author": "Mikael Wallin, wallindev",
   "license": "MIT",
   "homepage": "https://github.com/wallindev"
 }

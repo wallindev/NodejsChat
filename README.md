@@ -9,7 +9,10 @@ Real-time chat application built with Express.js on Node.js with Socket.io, Sync
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install nodejs-chat --save
+git clone https://github.com/wallindev/nodejs-chat.git
+cd nodejs-chat
+npm install
+npm start
 ```
 
 ## Dependencies

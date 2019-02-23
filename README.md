@@ -25,8 +25,8 @@ npm start
 
 ## Dev Dependencies
 
-None
+- [bower](https://github.com/bower/bower): A package manager for the web
 
 ## License
 
-MIT
+ISC
